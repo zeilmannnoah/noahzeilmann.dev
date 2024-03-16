@@ -1,0 +1,6 @@
+@media (min-width: 900px) {
+    html {
+      scroll-behavior: smooth;
+      scroll-snap-type: y mandatory;
+    }
+}
