@@ -6,7 +6,7 @@ import { ThemeContext } from "../../../ThemeProvider/ThemeProvider";
 export const ThemeToggle = () => {
   const themeContext = useContext(ThemeContext);
   const toggleTheme = (_event: any, themeMode: "light" | "dark") =>
-    themeContext?.setThemeMode(themeMode);
+    themeMode && themeContext?.setThemeMode(themeMode);
 
   return (
     <ToggleButtonGroup
