@@ -68,7 +68,7 @@ export const AboutSection = () => (
           business success. <br />
           <br />
           I started programming in my Programming 1 class in high school and
-          feel in love. I graduated from Missouri State University with a major
+          fell in love. I graduated from Missouri State University with a major
           in Software Development and a minor in Web Application Development.
           Since then, I've honed my skills in a variety of technologies,
           including React, Node.js, Ruby on Rails, and Apollo GraphQL, to name a
@@ -76,10 +76,10 @@ export const AboutSection = () => (
           <br />
           Throughout my career, I've had the privilege of working with talented
           teams at companies like Brinks, J.E. Dunn Construction, and Cerner
-          Corporation. In these roles, I've led initiatives to develop modern
-          React websites, created and maintained construction management
-          applications, and developed medical coding software, all while
-          embracing Agile methodologies and fostering collaborative
+          Corporation. In these roles, I've helped complete initiatives to
+          develop modern React websites, created and maintained construction
+          management applications, and developed medical coding software, all
+          while embracing Agile methodologies and fostering collaborative
           environments. <br />
           <br />
           I'm excited to continue pushing the boundaries of web development and
