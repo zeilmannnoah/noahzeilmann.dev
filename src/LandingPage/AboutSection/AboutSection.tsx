@@ -58,7 +58,7 @@ export const AboutSection = () => (
               },
             }}
           />
-          based in Atlanta, GA 📍
+          based in Kansas City, MO 📍
         </Typography>
         <Typography variant="body1">
           Hello, I am a passionate Software Engineer specializing in front-end
