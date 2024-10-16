@@ -17,7 +17,7 @@ export const HeroSection = () => {
   const themeContext = useContext(ThemeContext);
 
   return (
-    <Box sx={commonStyles.container}>
+    <Box sx={commonStyles.section}>
       <Stack
         direction="row"
         gap={10}

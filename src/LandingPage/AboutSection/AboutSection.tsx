@@ -2,7 +2,7 @@ import { Box, Paper, Stack, Typography } from "@mui/material";
 import * as commonStyles from "../common.styles";
 
 export const AboutSection = () => (
-  <Box sx={commonStyles.container}>
+  <Box sx={commonStyles.section}>
     <Stack
       direction={"row"}
       alignItems="center"

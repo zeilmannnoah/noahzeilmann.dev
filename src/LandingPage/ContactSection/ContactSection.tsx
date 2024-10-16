@@ -6,7 +6,7 @@ import * as commonStyles from "../common.styles";
 import * as styles from "./ContactSection.styles";
 
 export const ContactSection = () => (
-  <Box sx={commonStyles.container}>
+  <Box sx={commonStyles.section}>
     <Typography variant="h3" gutterBottom sx={commonStyles.header} id="contact">
       Contact Me
     </Typography>
