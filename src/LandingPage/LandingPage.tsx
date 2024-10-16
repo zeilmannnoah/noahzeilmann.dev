@@ -1,21 +1,19 @@
-import { Container, Stack } from "@mui/material";
+import { Box, Container } from "@mui/material";
 import { AboutSection } from "./AboutSection/AboutSection";
 import { ContactSection } from "./ContactSection/ContactSection";
 import { HeroSection } from "./HeroSection/HeroSection";
 import { AppBar } from "./AppBar/AppBar";
-import "./LandingPage.css";
 import { ResumeSection } from "./ResumeSection/ResumeSection";
+import * as styles from "./common.styles";
 
 export const LandingPage = () => (
-  <div>
+  <Box component="div" sx={styles.container}>
     <AppBar />
     <Container maxWidth="lg">
-      <Stack gap={5}>
-        <HeroSection />
-        <AboutSection />
-        <ResumeSection />
-        <ContactSection />
-      </Stack>
+      <HeroSection />
+      <AboutSection />
+      <ResumeSection />
+      <ContactSection />
     </Container>
-  </div>
+  </Box>
 );
