@@ -44,7 +44,7 @@ export const TypingAnimation = () => {
         },
       }}
     >
-      Hi, I'm Noah Zeilmann. A passionate Front-end Developer
+      Hi, I'm Noah Zeilmann. A passionate Front-end Engineer
       <br />
       who <span ref={el}></span>
     </Box>
