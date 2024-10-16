@@ -10,7 +10,7 @@ export const ResumeSection = () => (
       component={"iframe"}
       src="./Noah's Resume.pdf"
       title="Noah's Resume"
-      sx={{ width: "100%", height: "100%" }}
+      sx={commonStyles.resume}
     />
   </Box>
 );
