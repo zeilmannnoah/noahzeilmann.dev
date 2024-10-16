@@ -7,7 +7,7 @@ export const section: SxProps = {
   justifyContent: "center",
   gap: 2,
   scrollSnapAlign: "start",
-  height: "100vh",
+  minHeight: "100vh",
   paddingBottom: "100px",
 };
 
@@ -20,3 +20,9 @@ export const container: SxProps = {
 };
 
 export const header: SxProps = { fontWeight: "bold" };
+
+export const resume: SxProps = {
+  width: "100%",
+  height: "100%",
+  minHeight: "80vh",
+};
