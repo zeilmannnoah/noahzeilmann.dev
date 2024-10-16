@@ -17,6 +17,7 @@ export const container: SxProps = {
   overflowY: "scroll",
   height: "100vh",
   scrollPaddingTop: "64px",
+  scrollPaddingBlockEnd: "300px",
 };
 
 export const header: SxProps = { fontWeight: "bold" };
