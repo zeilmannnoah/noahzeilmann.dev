@@ -43,8 +43,9 @@ export const HeroSection = () => {
               },
             }}
           >
+            Senior <br />
             Front-End <br />
-            Developer 🧑🏻‍💻
+            Engineer 🧑🏻‍💻
           </Typography>
           <Typography variant="h5" component="h2" color="text.secondary">
             <TypingAnimation />
