@@ -49,7 +49,7 @@ export const AboutSection = () => (
           fontWeight="bold"
           gutterBottom
         >
-          A dedicated Front-end Developer{" "}
+          A dedicated Senior Front-end Engineer{" "}
           <Box
             component="br"
             sx={{
@@ -61,31 +61,34 @@ export const AboutSection = () => (
           based in Kansas City, MO 📍
         </Typography>
         <Typography variant="body1">
-          Hello, I am a passionate Software Engineer specializing in front-end
-          web development. With over seven years of experience in the tech
-          industry, I've dedicated my career to crafting intuitive and
-          responsive web applications that enhance user experiences and drive
-          business success. <br />
+          Hello, I’m a Senior Frontend Engineer with over seven years of
+          experience leading the development of high-performance, scalable web
+          applications. My career has been defined by a passion for creating
+          intuitive, responsive user interfaces and a commitment to delivering
+          solutions that drive business growth and enhance user experiences.{" "}
           <br />
-          I started programming in my Programming 1 class in high school and
-          fell in love. I graduated from Missouri State University with a major
-          in Software Development and a minor in Web Application Development.
-          Since then, I've honed my skills in a variety of technologies,
-          including React, Node.js, Ruby on Rails, and Apollo GraphQL, to name a
-          few. <br />
           <br />
-          Throughout my career, I've had the privilege of working with talented
-          teams at companies like Brinks, J.E. Dunn Construction, and Cerner
-          Corporation. In these roles, I've helped complete initiatives to
-          develop modern React websites, created and maintained construction
-          management applications, and developed medical coding software, all
-          while embracing Agile methodologies and fostering collaborative
-          environments. <br />
+          My journey into programming began in high school, and that early spark
+          led me to pursue a degree in Software Development with a focus on Web
+          Application Development at Missouri State University. Since then, I’ve
+          worked extensively with modern technologies like React, Next.js,
+          GraphQL, and Node.js to build everything from enterprise applications
+          to mission-critical internal tools. <br />
           <br />
-          I'm excited to continue pushing the boundaries of web development and
-          making a positive impact in the tech industry. Let's connect if you're
-          looking for a dedicated and innovative software engineer for your web
-          projects!
+          Over the years, I’ve led key frontend initiatives at companies like
+          Brinks, J.E. Dunn Construction, and Cerner Corporation, where I
+          introduced frontend best practices, transformed legacy systems, and
+          mentored development teams. I thrive in Agile environments, where I
+          can contribute to both technical strategy and hands-on development,
+          ensuring that the solutions we build are not only innovative but also
+          maintainable and scalable. <br />
+          <br />
+          I’m always looking for opportunities to push the boundaries of what’s
+          possible in web development, whether it’s through improving frontend
+          architectures, fostering team collaboration, or mentoring the next
+          generation of developers. If you’re seeking a senior engineer with a
+          deep understanding of frontend technologies and a track record of
+          delivering impactful solutions, let’s connect.
         </Typography>
       </Paper>
     </Stack>
