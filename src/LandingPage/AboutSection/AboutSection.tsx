@@ -58,30 +58,34 @@ export const AboutSection = () => (
               },
             }}
           />
-          based in Kansas City, MO 📍
+          based in Bellevue, WA 📍
         </Typography>
         <Typography variant="body1">
-          Hello, I’m a Senior Frontend Engineer with over seven years of
-          experience leading the development of high-performance, scalable web
-          applications. My career has been defined by a passion for creating
-          intuitive, responsive user interfaces and a commitment to delivering
-          solutions that drive business growth and enhance user experiences.{" "}
+          Hello, I’m a Senior Frontend Engineer with 8+ years of experience building 
+          high-performance, scalable web applications. I specialize in modern 
+          JavaScript ecosystems — particularly React, TypeScript, Next.js, GraphQL, 
+          and Node.js — and I’m passionate about crafting intuitive, responsive 
+          experiences that deliver real business impact. <br />
           <br />
+          My path in software began in high school and continued through my Software 
+          Development degree at Missouri State University, where I focused on web 
+          application development. Since then, I’ve built solutions across industries 
+          — including healthcare, fintech, retail technology, and construction — 
+          working at organizations such as Centene, Brink’s (Balance Innovations), 
+          JE Dunn Construction, and Cerner (Oracle Health). <br />
           <br />
-          My journey into programming began in high school, and that early spark
-          led me to pursue a degree in Software Development with a focus on Web
-          Application Development at Missouri State University. Since then, I’ve
-          worked extensively with modern technologies like React, Next.js,
-          GraphQL, and Node.js to build everything from enterprise applications
-          to mission-critical internal tools. <br />
+          Throughout my career, I’ve led modernization efforts from legacy systems 
+          to modern React architectures, established component libraries and 
+          frontend standards, introduced automated testing practices, and mentored 
+          engineers to grow high-performing teams. I enjoy balancing architectural 
+          thinking with hands-on engineering, helping teams move quickly without 
+          compromising quality or maintainability. <br />
           <br />
-          Over the years, I’ve led key frontend initiatives at companies like
-          Brinks, J.E. Dunn Construction, and Cerner Corporation, where I
-          introduced frontend best practices, transformed legacy systems, and
-          mentored development teams. I thrive in Agile environments, where I
-          can contribute to both technical strategy and hands-on development,
-          ensuring that the solutions we build are not only innovative but also
-          maintainable and scalable. <br />
+          I thrive in collaborative, product-focused environments where engineering 
+          excellence and thoughtful design come together to solve meaningful problems. 
+          Today, I’m especially excited about the future of frontend engineering — 
+          including AI-enhanced user experiences, intelligent interfaces, and systems 
+          that scale effortlessly across platforms and brands. <br />
           <br />
           I’m always looking for opportunities to push the boundaries of what’s
           possible in web development, whether it’s through improving frontend

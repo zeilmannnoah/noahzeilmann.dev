@@ -44,7 +44,7 @@ export const HeroSection = () => {
             }}
           >
             Senior <br />
-            Front-End <br />
+            Software <br />
             Engineer 🧑🏻‍💻
           </Typography>
           <Typography variant="h5" component="h2" color="text.secondary">
